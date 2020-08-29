@@ -14,11 +14,13 @@ I. Demographic information about customers
  - dependents - Number of dependents 
  - occupation - Occupation of the customer 
  - city - City of the customer (anonymized) 
-II. Customer Bank Relationship
+ 
+### II. Customer Bank Relationship
  - customer_nw_category - Net worth of customer (3: Low 2: Medium 1: High) 
  - branch_code - Branch Code for a customer account 
  - days_since_last_transaction - No of Days Since Last Credit in Last 1 year 
-III. Transactional Information
+ 
+ ### III. Transactional Information
  - current_balance - Balance as of today 
  - previous_month_end_balance - End of Month Balance of previous month 
  - average_monthly_balance_prevQ - Average monthly balances (AMB) in Previous Quarter 
